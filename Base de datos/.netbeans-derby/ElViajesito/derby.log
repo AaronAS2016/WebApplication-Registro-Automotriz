@@ -1,0 +1,13 @@
+Mon Sep 26 20:28:32 ART 2016 : Apache Derby Network Server - 10.8.1.2 - (1095077) se ha iniciado y está listo para aceptar conexiones en el puerto 1527
+----------------------------------------------------------------
+Mon Sep 26 20:28:34 ART 2016:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instancia a816c00e-0157-68d4-16dd-000078198518 
+en el directorio de base de datos /home/fer/Escritorio/NetBeansProjects/BD_Tutorias/ElViajesito/BDDelViajesito  con el cargador de clases sun.misc.Launcher$AppClassLoader@45a877
+
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_27-b07
+user.dir=/usr/local/glassfish-3.1.2/javadb
+derby.system.home=/home/fer/Escritorio/NetBeansProjects/BD_Tutorias/ElViajesito
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Sep 26 22:03:22 ART 2016: Shutting down Derby engine

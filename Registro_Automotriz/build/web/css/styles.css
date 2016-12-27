@@ -1,0 +1,38 @@
+.input-field label {
+    color: #000;
+}
+
+.input-field input[type=text]:focus + label {
+    color: #000;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+}
+
+.input-field .prefix.active {
+    color: #000;
+}
+
+.margen{
+    margin-top: 100px;
+
+}
+.texto{
+    font-size: 1em;
+    margin-left: 15px;
+    color: #bdbdbd;
+}
+.titulos{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: -30px;
+    padding-botton:-20px;
+}
+.formulario{
+    margin-left: 60px;
+}
+
+
+
